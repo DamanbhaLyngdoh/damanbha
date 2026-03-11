@@ -12,8 +12,8 @@
 
 <!-- BADGES ROW -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damanbha%20Lyngdoh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damanbha-lyngdoh-0370a4357/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00ffe1&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=a78bfa&label=FOLLOWERS)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=DamanbhaLyngdoh&style=for-the-badge&color=00ffe1&label=PROFILE+VIEWS)](https://github.com/DamanbhaLyngdoh)
+[![GitHub followers](https://img.shields.io/github/followers/DamanbhaLyngdoh?style=for-the-badge&color=a78bfa&label=FOLLOWERS)](https://github.com/DamanbhaLyngdoh)
 
 </div>
 
@@ -81,12 +81,12 @@ const damanbha = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamanbhaLyngdoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=a78bfa&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamanbhaLyngdoh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffe1&ring=a78bfa&fire=ff6b35&currStreakLabel=00ffe1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamanbhaLyngdoh&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffe1&ring=a78bfa&fire=ff6b35&currStreakLabel=00ffe1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,7 +94,7 @@ const damanbha = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DamanbhaLyngdoh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@ const damanbha = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DamanbhaLyngdoh/DamanbhaLyngdoh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ const damanbha = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ffe1&line=a78bfa&point=ff6b35&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamanbhaLyngdoh&bg_color=0d1117&color=00ffe1&line=a78bfa&point=ff6b35&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -119,8 +119,8 @@ const damanbha = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=DamanbhaLyngdoh&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9)](https://github.com/DamanbhaLyngdoh/YOUR_REPO_1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=DamanbhaLyngdoh&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9)](https://github.com/DamanbhaLyngdoh/YOUR_REPO_2)
 
 </div>
 
@@ -139,7 +139,7 @@ const damanbha = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damanbha-lyngdoh-0370a4357/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DamanbhaLyngdoh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ffe1?style=for-the-badge&logo=About.me&logoColor=black)](https://YOUR_PORTFOLIO_URL)
 
